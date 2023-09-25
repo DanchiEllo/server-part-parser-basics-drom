@@ -16,7 +16,7 @@
 ---
 **Customization:**
 
-* Configure your database, by default, the h2 database is used in RAM. You need to redo it for your MySQL and you may have to register your dialects.
+* Configure your database, by default, the h2 database is used in RAM. You need to redo it for your MySQL in propeties file, and you may have to register your dialects.
   
 * It is natural to make the first test request
  >(example of the request body) 
