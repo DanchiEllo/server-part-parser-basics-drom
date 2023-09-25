@@ -1,4 +1,4 @@
-# ***[DROM](https://www.drom.ru/) PARSER ENGINE IN JAVA SPRING***
+# ***[DROM](https://auto.drom.ru/all/) PARSER ENGINE IN JAVA SPRING***
 ![logo](https://sun9-26.userapi.com/lzn3DyiOwqzga74d-sVF8SlVIOC-iO-AV_TBcg/-Yklk42ySOw.jpg)
 ## The redesigned engine of [my former parser](https://github.com/DanchiEllo/drom-parser-chatbot-ru_doesnt_work) in java Spring(Maven). This is the server part of the parser to which requests will be sent from your client part.
 
@@ -25,6 +25,14 @@
 >"URL": "https://auto.drom.ru/all/"
 >}
 >```
+> or
+>```JSON
+>{
+>"URL": "https://auto.drom.ru/chevrolet/camaro/?unsold=1"
+>}
+>```
+
+
 
 
   and if you see normal data, then everything works.
